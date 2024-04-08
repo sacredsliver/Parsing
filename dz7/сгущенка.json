@@ -1,0 +1,884 @@
+[
+    {
+        "_id": 488902,
+        "name": "Молоко сгущенное Алексеевское цельное с сахаром 8,5% БЗМЖ, 650 г",
+        "price": 219.49,
+        "image": "[Photo](сгущенка/wO4xBtpW59N95DDZTQmaCzN1LucaIzGq4A2k9D3P.jpg)",
+        "link": "[Link](https://www.auchan.ru/product/moloko-alekseevskoe-celnoe-sgushchennoe-s-saharom-8-5-650-g/)<br>"
+    },
+    {
+        "_id": 831439,
+        "name": "Молоко сгущенное Алексеевское БЗМЖ, 270 г",
+        "price": 109.49,
+        "image": "[Photo](сгущенка/LrUXhFN2GdtIGs3rWI8Pq27ICjdPaVg9rRVOfGjz.jpg)",
+        "link": "[Link](https://www.auchan.ru/product/moloko-alekseevskoe-sgushchennoe-270-g/)<br>"
+    },
+    {
+        "_id": 830281,
+        "name": "Молоко сгущенное Рогачевъ цельное с сахаром БЗМЖ, 380 г",
+        "price": 119.9,
+        "image": "[Photo](сгущенка/4PQ2iKvi5xc5nM5ore044KR0FqJR1EUuhJMKyDfh.jpg)",
+        "link": "[Link](https://www.auchan.ru/product/moloko-sgushchennoe-rogachev-celnoe-s-saharom-380g/)<br>"
+    },
+    {
+        "_id": 550041,
+        "name": "Сырок творожный А.Ростагрокомплекс в молочном шоколаде с вареным сгущеным молоком 26%, 50 г",
+        "price": 75.99,
+        "image": "[Photo](сгущенка/1SnTurBuT04VMZBB1xOEuxoKxeVDgI5msDfMsV9y.jpg)",
+        "link": "[Link](https://www.auchan.ru/product/syrok-b-yu-aleksandrov-tvorozhnyy-glazirovannyy-v-molochnom-shokolade-s-molokom-sgushchennym-varenym-26-50-g/)<br>"
+    },
+    {
+        "_id": 853873,
+        "name": "Молоко сгущенное Рогачевъ с сахаром ГОСТ 8,5% БЗМЖ, 270 г",
+        "price": 157.99,
+        "image": "[Photo](сгущенка/dKOGmpLAr3JxANuOQ0LarorcSiZY0smAub07HGQ5.jpg)",
+        "link": "[Link](https://www.auchan.ru/product/moloko-sgushch-rogachev8-5-d-p270/)<br>"
+    },
+    {
+        "_id": 917861,
+        "name": "Молоко сгущенное Алексеевское цельное с сахаром БЗМЖ, 100 г",
+        "price": 58.99,
+        "image": "[Photo](сгущенка/fkDhDebRqLRk1BNMooF5X8FX6jYh65g651tNyoJ4.jpg)",
+        "link": "[Link](https://www.auchan.ru/product/sgushch-mol-alekseev-100gr-d-p/)<br>"
+    },
+    {
+        "_id": 607426,
+        "name": "Сырок творожный РостАгроЭкспорт глазированный с вареной сгущенкой 15%, 45 г",
+        "price": 32.49,
+        "image": "[Photo](сгущенка/8T3Q2ORkww3mFMM7m6ekuxmpa0DfAby3y6I0nAk7.jpg)",
+        "link": "[Link](https://www.auchan.ru/product/syrok-glazirovannyy-rostagroeksport-tvorozhnyy-s-varenoy-sgushchenkoy-massovaya-dolya-zhira-15-45-g/)<br>"
+    },
+    {
+        "_id": 947184,
+        "name": "Молоко сгущенное Густияр с сахаром 0,2% БЗМЖ, 270 г",
+        "price": 87.99,
+        "image": "[Photo](сгущенка/G2mwNkOukdMyApXPF2G21GkMdFu6R1z6X5ZBFQkL.jpg)",
+        "link": "[Link](https://www.auchan.ru/product/mol-sgushch-0-2-gustiyar-270-bzmzh/)<br>"
+    },
+    {
+        "_id": 937700,
+        "name": "Молоко сгущенное Вологодские молочные продукты цельное с сахаром 8,5% БЗМЖ, 270 мл",
+        "price": 90.99,
+        "image": "[Photo](сгущенка/Gf8ibvG2qrIh4sScp4gQK9vzUO9K4MjFzwPAmMgG.jpg)",
+        "link": "[Link](https://www.auchan.ru/product/moloko-celnoe-sgushch-doy-pak/)<br>"
+    },
+    {
+        "_id": 903055,
+        "name": "Молоко сгущенное АШАН Красная птица цельное с сахаром 8,5% БЗМЖ, 270 г",
+        "price": 74.9,
+        "image": "[Photo](сгущенка/uBEHl3le83svxVDu5AyC58DZljhnDo9P4ixsNDmP.jpg)",
+        "link": "[Link](https://www.auchan.ru/product/kp-mol-sgushch-8-5-dp-270g-bzmzh/)<br>"
+    },
+    {
+        "_id": 953471,
+        "name": "Сырок творожный Пора есть глазированный с молоком сгущённым варёным 20%, 30 г",
+        "price": 19.9,
+        "image": "[Photo](сгущенка/wqNxPoF5F1uxxDAHlEq7bKSkFe4ysEZkEE6zztM5.jpg)",
+        "link": "[Link](https://www.auchan.ru/product/syr-gl-sgushch-20-30g-pora-est/)<br>"
+    },
+    {
+        "_id": 945123,
+        "name": "Молоко сгущенное АШАН Красная птица с сахаром вареное БЗМЖ, 370 г",
+        "price": 119.99,
+        "image": "[Photo](сгущенка/aM90C6T3h6HecJc42aO4PiY6SfCWBkWzPaJA5xIP.jpg)",
+        "link": "[Link](https://www.auchan.ru/product/kp-sgushchen-varenaya-370g-zhb-bzmzh/)<br>"
+    },
+    {
+        "_id": 488921,
+        "name": "Молоко сгущенное Алексеевское вареное с сахаром 8.5% БЗМЖ, 360 г",
+        "price": 189.99,
+        "image": "[Photo](сгущенка/QQSdX6hnC0akTaDFabHhWGGnZCHBUONnCcHdrkZe.jpg)",
+        "link": "[Link](https://www.auchan.ru/product/moloko-alekseevskoe-sushchennoe-varenoe-s-saharom-8-5-360-g/)<br>"
+    },
+    {
+        "_id": 44234,
+        "name": "Молоко сгущеное Каждый день вареное 4% ЗМЖ, 370 г",
+        "price": 59.99,
+        "image": "[Photo](сгущенка/EAJwmj8NxTOymsw4no8ejIQ3MhnkpBUbChDe55SP.jpg)",
+        "link": "[Link](https://www.auchan.ru/product/kd-mol-sgushch-varen-4-370g-szmzh/)<br>"
+    },
+    {
+        "_id": 947175,
+        "name": "Молоко сгущенное Алексеевское цельное с сахаром 8,5% БЗМЖ, 360 г",
+        "price": 139.49,
+        "image": "[Photo](сгущенка/kxbxJs7IFkUbNkLyQHjBZM3D1LaqsEq3fv5thP10.jpg)",
+        "link": "[Link](https://www.auchan.ru/product/mol-sgushch-s-sah-gost-8-5-360g/)<br>"
+    },
+    {
+        "_id": 627060,
+        "name": "Сырок творожный глазированный Вкуснотеево Сгущенка вареная 23%, 40 г",
+        "price": 30.99,
+        "image": "[Photo](сгущенка/3bi85wvtARNJcHwtZgE8htEoCcoBbNmCuzfLRcAO.jpg)",
+        "link": "[Link](https://www.auchan.ru/product/cyrok_glaz_vkusn_sgusch_40g_23/)<br>"
+    },
+    {
+        "_id": 903063,
+        "name": "Молоко сгущенное АШАН Красная птица цельное с сахаром 8,5% БЗМЖ, 650 г",
+        "price": 211.99,
+        "image": "[Photo](сгущенка/qfKzAXvJ4FDNdw39YuTsMeQ80Bh9HaPxAJQ67QcY.jpg)",
+        "link": "[Link](https://www.auchan.ru/product/kp-mol-sgushch-8-5-dp-650g-bzmzh/)<br>"
+    },
+    {
+        "_id": 984587,
+        "name": "Молоко сгущенное АШАН Красная птица 8,5% БЗМЖ, 400 г",
+        "price": 162.99,
+        "image": "[Photo](сгущенка/WZCqwdAHMiSYVU8M7bfLl5bWOuewJAMkliWrVufV.jpg)",
+        "link": "[Link](https://www.auchan.ru/product/kp-moloko-sgushch-gost-8-5-400g/)<br>"
+    },
+    {
+        "_id": 947183,
+        "name": "Молоко сгущенное Алексеевское с сахаром и какао 5,0% БЗМЖ, 270 г",
+        "price": 142.96,
+        "image": "[Photo](сгущенка/sWgwphV119RhwC0wpKkT9b3e4b4NIHGuujXLuM2x.jpg)",
+        "link": "[Link](https://www.auchan.ru/product/moloko-sgushch-s-kakao-5-d-p-270g/)<br>"
+    },
+    {
+        "_id": 465288,
+        "name": "Сырок глазированный Советские традиции творожный с молоком сгущенным вареным 26%, 45 г",
+        "price": 50.99,
+        "image": "[Photo](сгущенка/4ZUuehePOgvoo5tS6TQoWHluylxKGJiwecY5smfi.jpg)",
+        "link": "[Link](https://www.auchan.ru/product/syrok-glazirovannyy-sovetskie-tradicii-tvorozhnyy-s-molokom-sgushchennym-varenym-26-45-g/)<br>"
+    },
+    {
+        "_id": 46933,
+        "name": "Сырок творожный АШАН Красная птица глазированный со сгущенкой БЗМЖ, 40 г",
+        "price": 21.9,
+        "image": "[Photo](сгущенка/yhqW8MHCh50AL55oWKDiQCPYMAapajjrpUj5KH2n.jpg)",
+        "link": "[Link](https://www.auchan.ru/product/kp-syrok-gl-var-sgushch23-40bzmzh/)<br>"
+    },
+    {
+        "_id": 787342,
+        "name": "Молоко сгущенное АШАН Красная птица цельное с сахаром 8,5% БЗМЖ, 380 г",
+        "price": 124.99,
+        "image": "[Photo](сгущенка/FslwNkTzz2qmHWxcSFVDJ8QjpJ38UbwjxwEWbJla.jpg)",
+        "link": "[Link](https://www.auchan.ru/product/kpmolsgusch_gost_85_zhb_380g/)<br>"
+    },
+    {
+        "_id": 559384,
+        "name": "Молоко сгущенное Рогачевъ вареное с сахаром Егорка БЗМЖ, 360 г",
+        "price": 180.99,
+        "image": "[Photo](сгущенка/XBkC5gIcX9qhyhSSjo1FiCluwRnCRbCcKZhxk1u5.jpg)",
+        "link": "[Link](https://www.auchan.ru/product/moloko-rogachev-sgushchennoe-varenoe-s-saharom-egorka-360-g/)<br>"
+    },
+    {
+        "_id": 984588,
+        "name": "Молоко сгущенное АШАН Красная птица с сахаром 3% БЗМЖ, 400 г",
+        "price": 139.99,
+        "image": "[Photo](сгущенка/UmzPsSaXXYHEruTI0vjPCvTtqB3PdUqCvt8G1t9s.jpg)",
+        "link": "[Link](https://www.auchan.ru/product/kp-sgushch-varenaya-3-400g-vedro/)<br>"
+    },
+    {
+        "_id": 92350,
+        "name": "Сгущенка кокосовая АШАН Красная Птица Классическая Vegan, 170 г",
+        "price": 159.9,
+        "image": "[Photo](сгущенка/Bg7EI3T4V7ThZ9uvRdNSR3r9zXaArNBZQDx6q9NJ.jpg)",
+        "link": "[Link](https://www.auchan.ru/product/kp-sgushchenka-kokos-170g/)<br>"
+    },
+    {
+        "_id": 1476,
+        "name": "Десерт творожный Пора есть глазированный в вафельном сахарном рожке с молоком сгущенным вареным 10%, 30 г",
+        "price": 31.99,
+        "image": "[Photo](сгущенка/LOUiMMRCVJ0RKtxUeWPf8JPOZxCSKRQQWIhjJE5P.jpg)",
+        "link": "[Link](https://www.auchan.ru/product/rozh-tv-sgushch-10-30g-pora-est/)<br>"
+    },
+    {
+        "_id": 18024,
+        "name": "Продукт сгущенный Молочная Страна молокосодержащий вареный ЗМЖ, 270 г",
+        "price": 86.99,
+        "image": "[Photo](сгущенка/PpXmtp7pntGLgzCts6SnKDy7DaEm1en39MjkuROE.jpg)",
+        "link": "[Link](https://www.auchan.ru/product/produkt-sgushchennyy-molochnaya-strana-molokosoderzhashchiy-varenyy-270-g/)<br>"
+    },
+    {
+        "_id": 15542,
+        "name": "Молоко сгущенное с сахаром Глубокое Черри-бренди 8,5% БЗМЖ, 380 г",
+        "price": 175.99,
+        "image": "[Photo](сгущенка/eMVpTuetx9ifILpEjX8rZg5drKjEfXF4wcCSGfMT.jpg)",
+        "link": "[Link](https://www.auchan.ru/product/mol-sgushch-cherri-8-5-380g-zh-b/)<br>"
+    },
+    {
+        "_id": 799765,
+        "name": "Молоко сгущенное Коровка из Кореновки цельное с сахаром 8,5% БЗМЖ, 650 г",
+        "price": 299.99,
+        "image": "[Photo](сгущенка/3njFeMoPRGDQkG0JQDQlP3eIL8HJFabkvdt0feg1.jpg)",
+        "link": "[Link](https://www.auchan.ru/product/molcsgusch85_650g_kizk/)<br>"
+    },
+    {
+        "_id": 92355,
+        "name": "Сгущенка кокосовая АШАН Красная Птица с какао Vegan, 170 г",
+        "price": 159.9,
+        "image": "[Photo](сгущенка/RrQpZFgQ91TqRpQwW5BeBuKTbyqFOU43aPcXseQK.jpg)",
+        "link": "[Link](https://www.auchan.ru/product/kp-sgushch-kokos-s-kakao-170g/)<br>"
+    },
+    {
+        "_id": 992277,
+        "name": "Сырок Каждый день глазированный вареная сгущенка, 40 г",
+        "price": 13.98,
+        "image": "[Photo](сгущенка/KAGmoVVdtYFzsBo1g6MO45TVZx716daQsuw6vhoT.jpg)",
+        "link": "[Link](https://www.auchan.ru/product/kd-desert-gl-varenaya-sgushch-40g/)<br>"
+    },
+    {
+        "_id": 945815,
+        "name": "Молоко сгущенное Любимая Классика Соленая карамель вареное 2,5% БЗМЖ, 360 г",
+        "price": 160.99,
+        "image": "[Photo](сгущенка/1NMbAr2FyNhIhLeqbemd4W6tNERrQLwRA4oG4hin.jpg)",
+        "link": "[Link](https://www.auchan.ru/product/sgushch-sol-karamel-360gzh-b-bzmzh/)<br>"
+    },
+    {
+        "_id": 617817,
+        "name": "Молоко сгущенное Главпродукт гост БЗМЖ, 600 г",
+        "price": 276.99,
+        "image": "[Photo](сгущенка/Ltr7nZ5BksV87qm2wf3LwKJUtTF5MHYWqGJJ4gSg.jpg)",
+        "link": "[Link](https://www.auchan.ru/product/moloko-glavprodukt-sgushchennoe-gost-figurnaya-pet-perevertysh-600-g/)<br>"
+    },
+    {
+        "_id": 984591,
+        "name": "Сливки сгущенные АШАН Красная птица отборные с сахаром 19% БЗМЖ, 400 г",
+        "price": 199.99,
+        "image": "[Photo](сгущенка/oODfE8SI2LNNKWveb3PQRRfcUgyQm14g3kQOBSib.jpg)",
+        "link": "[Link](https://www.auchan.ru/product/kp-slivki-sgushchenye-19-400g/)<br>"
+    },
+    {
+        "_id": 789042,
+        "name": "Сырок творожный Свитлогорье с вареным сгущенным молоком 26%, 45 г",
+        "price": 59.99,
+        "image": "[Photo](сгущенка/otYj4RgCM84aRPVHm5TYhWG4PvdWxBSbGx2mxYnf.jpg)",
+        "link": "[Link](https://www.auchan.ru/product/syrok-glazirovannyy-svitlogore-tvorozhnyy-s-varenym-sgushchennym-molokom-26-45g/)<br>"
+    },
+    {
+        "_id": 125542,
+        "name": "Сырок глазированный Творобушки вареная сгущенка БЗМЖ, 40 г",
+        "price": 27.96,
+        "image": "[Photo](сгущенка/r17DIJYFqaPRjtPTqCaqFmGTz9EGChCyIwf1NMCB.jpg)",
+        "link": "[Link](https://www.auchan.ru/product/syrok-tvorobushki-sgushchen-40-g/)<br>"
+    },
+    {
+        "_id": 841301,
+        "name": "Сырок творожный глазированный Вкуснотеево в карамельной глазури со сгущённым варёным молоком 16%, 40 г",
+        "price": 45.99,
+        "image": "[Photo](сгущенка/9z0VvRuKXmHGTWi86i0JYnBa0RYoKAegk1Xc2LWJ.jpg)",
+        "link": "[Link](https://www.auchan.ru/product/syrok-glazirovannyy-vkusnoteevo-tvorozhnyy-premium-v-karamelnoy-glazuri-so-sgushchennym-varenym-molokom-16-40-g/)<br>"
+    },
+    {
+        "_id": 917859,
+        "name": "Молоко сгущенное порционное Алексеевское цельное с сахаром стик 8,5%, 7 г",
+        "price": 4.99,
+        "image": "[Photo](сгущенка/WEEfyB1iFOlD8ROxSGOKcm1MpfoTJGdSSFCT38T2.jpg)",
+        "link": "[Link](https://www.auchan.ru/product/sgushch-mol-8-5-7g-alekseevskoe/)<br>"
+    },
+    {
+        "_id": 795000,
+        "name": "Молоко сгущенное вареное Коровка из Кореновки с сахаром 8,5% БЗМЖ, 360 г",
+        "price": 183.99,
+        "image": "[Photo](сгущенка/Bl3Ppo73yySogoALRf0LtBBnn4bR6HUEkfJ027Fv.jpg)",
+        "link": "[Link](https://www.auchan.ru/product/mol_sguschvar_85_360g_kizk/)<br>"
+    },
+    {
+        "_id": 488923,
+        "name": "Молоко сгущенное Густияр с сахаром 0,2%, 370 г",
+        "price": 99.96,
+        "image": "[Photo](сгущенка/PWdCfe24ZKmarjk0WhhwfKzTWfGsg7X8nGWluoNA.jpg)",
+        "link": "[Link](https://www.auchan.ru/product/moloko-sgushchennoe-gustiyar-s-saharom-0-2-370-g/)<br>"
+    },
+    {
+        "_id": 922872,
+        "name": "Молоко сгущенное ГЛАВПРОДУКТ с кокосом БЗМЖ, 270 г",
+        "price": 119.96,
+        "image": "[Photo](сгущенка/4e5KvA0JTE70FA4ST3JN72qGUelxbQOYb3yZ0R1w.jpg)",
+        "link": "[Link](https://www.auchan.ru/product/mol-sgushch-s-kokosom-gp-d-p270g/)<br>"
+    },
+    {
+        "_id": 945089,
+        "name": "Сырок творожный Белорусский узор глазированный с вареной сгущенкой 15% БЗМЖ, 45 г",
+        "price": 35.99,
+        "image": "[Photo](сгущенка/yjUMM8wd1arW3ixayjSp7FZ7qL4tMkuxEKVvmHwv.jpg)",
+        "link": "[Link](https://www.auchan.ru/product/syr-gl-sgushch-15-45g-bel-uz-bzmzh/)<br>"
+    },
+    {
+        "_id": 963023,
+        "name": "Сырок творожный Свитлогорье глазированный с варёной сгущёнкой в молочном шоколаде 26%, 55 г",
+        "price": 49.9,
+        "image": "[Photo](сгущенка/lIPdUwePIcHNiHJ22lCIGycu0bS2a3GHwqFsXBdf.jpg)",
+        "link": "[Link](https://www.auchan.ru/product/syr-gl-var-sg-mol-shok-26-55g/)<br>"
+    },
+    {
+        "_id": 944800,
+        "name": "Десерт творожный Своя корова глазированный с вареной сгущенкой 23%, 40 г",
+        "price": 21.99,
+        "image": "[Photo](сгущенка/NpZ9YSmx7Mad1P3nvzqAkh3aATsepJZMMvUidQNs.jpg)",
+        "link": "[Link](https://www.auchan.ru/product/des-gl-varenka-23-40g-sv-kor/)<br>"
+    },
+    {
+        "_id": 922885,
+        "name": "Молоко сгущенное ГЛАВПРОДУКТ с миндалем БЗМЖ, 270 г",
+        "price": 119.96,
+        "image": "[Photo](сгущенка/gtEGIJ41cIr1GNPGN7xhH6qVSEqyTeS0Ige4osTi.jpg)",
+        "link": "[Link](https://www.auchan.ru/product/mol-sgushch-s-mindalem-gp-d-p270g/)<br>"
+    },
+    {
+        "_id": 274164,
+        "name": "Сырок Ростагроэкспорт с ванилью и варенкой в вафельно-сахарном рожке 15% БЗМЖ, 60 г",
+        "price": 46.99,
+        "image": "[Photo](сгущенка/4fVK1gOz50sAvc5Q1qgEeQdbK5cDkmBY5ZIkZLiS.jpg)",
+        "link": "[Link](https://www.auchan.ru/product/desert-tvorozhnyy-rostagroeksport-s-vanilyu-i-varenkoy-v-vafelno-saharnom-rozhke-15-60-g/)<br>"
+    },
+    {
+        "_id": 787343,
+        "name": "Молоко сгущенное Главпродукт с сахаром ГОСТ Р53436-2009 БЗМЖ, 380 г",
+        "price": 146.99,
+        "image": "[Photo](сгущенка/YyElN1PWPN0dq4Ap8dlygjnkz4OH4LZnQwMej0v5.jpg)",
+        "link": "[Link](https://www.auchan.ru/product/molsguschgost_gp_zhb_380g/)<br>"
+    },
+    {
+        "_id": 46633,
+        "name": "Молоко сгущенное Кореновское с сахаром 0,2% БЗМЖ, 1,25 кг",
+        "price": 254.96,
+        "image": "[Photo](сгущенка/jKbGqwRHL0yRV5vhf8p6lCWWH078fKp6VQLPJy9r.jpg)",
+        "link": "[Link](https://www.auchan.ru/product/sgushchenka-korovka-iz-korenovki-s-saharom-8-5-1-25-kg/)<br>"
+    },
+    {
+        "_id": 872363,
+        "name": "Молоко сгущенное Смолена цельное с сахаром 0,2% БЗМЖ, 370 мл",
+        "price": 93.96,
+        "image": "[Photo](сгущенка/0j04xWBnjXpWb3tYKIigG2Maq4mYCVU9JtZQTGVM.jpg)",
+        "link": "[Link](https://www.auchan.ru/product/mol-sgushch-smolena-370g-zh-b-bzmzh/)<br>"
+    },
+    {
+        "_id": 958060,
+        "name": "Молоко сгущенное Любимая Классика с сахаром 8,5% БЗМЖ, 380 г",
+        "price": 149.99,
+        "image": "[Photo](сгущенка/bkZPKu1yDMVOvYbCAdSb3TJu0Fkh4ml0XnUXAl3t.jpg)",
+        "link": "[Link](https://www.auchan.ru/product/mol-sg-8-5-380g-klas-zh-b-bzmzh/)<br>"
+    },
+    {
+        "_id": 227692,
+        "name": "Молоко сгущенное Вологодские молочные продукты БЗМЖ, 400 г",
+        "price": 119.99,
+        "image": "[Photo](сгущенка/tWPpgFmSKINlMArCd0NKQhztJVRRLtA8a8zThDle.jpg)",
+        "link": "[Link](https://www.auchan.ru/product/moloko-vologodskie-molochnye-produkty-sgushchenoe-400-g/)<br>"
+    },
+    {
+        "_id": 971988,
+        "name": "Молоко сгущенное Кореновское с сахаром 0,2% БЗМЖ, 850 мл",
+        "price": 199.9,
+        "image": "[Photo](сгущенка/yBn27MNGuONTzZjtReY7WXpcAxWQREpFWtlP43qq.jpg)",
+        "link": "[Link](https://www.auchan.ru/product/moloko-sgushch-korenovk-pet-850gr/)<br>"
+    },
+    {
+        "_id": 947182,
+        "name": "Молоко сгущенное Коровка из Кореновки цельное с сахаром 8,5% БЗМЖ, 360 г",
+        "price": 179.99,
+        "image": "[Photo](сгущенка/1pZ0oig7Ke8GRSZLGys8lq9HxuulUyH43TQDERWe.jpg)",
+        "link": "[Link](https://www.auchan.ru/product/moloko-c-sgushch-8-5-360g-kizk/)<br>"
+    },
+    {
+        "_id": 922935,
+        "name": "Молоко сгущенное Молочная страна вареное с сахаром 4% БЗМЖ, 370 г",
+        "price": 158.99,
+        "image": "[Photo](сгущенка/rOF7oIGvCEp0Ri1nETw1tr7vujeEB85XrlRnvGCh.jpg)",
+        "link": "[Link](https://www.auchan.ru/product/sg-mol-var-molst-370g-zh-b-bzmzh/)<br>"
+    },
+    {
+        "_id": 102286,
+        "name": "Сгущенка Каждый день со вкусом банана СЗМЖ, 500 г",
+        "price": 88.99,
+        "image": "[Photo](сгущенка/Yu1xLxQwEA42fWQqD4EU6wAtSW9isoSK7zvfEw36.jpg)",
+        "link": "[Link](https://www.auchan.ru/product/kd-sgushch-500g-banan-szmzh/)<br>"
+    },
+    {
+        "_id": 787341,
+        "name": "Продукт молочный сгущенный Каждый День сгущенка с сахаром 1% БЗМЖ, 270 г",
+        "price": 44.98,
+        "image": "[Photo](сгущенка/LmN78AwGunxCG1nYRiZC6w707mKDOFTYtTC74043.jpg)",
+        "link": "[Link](https://www.auchan.ru/product/kdprodmolsgusch__1_dp_270g/)<br>"
+    },
+    {
+        "_id": 318703,
+        "name": "Сырок творожный Белый Медведь с варённой сгущёнкой глазированный ЗМЖ, 40 г",
+        "price": 19.99,
+        "image": "[Photo](сгущенка/jTA5sCIO0r1sjvMO1NWdzcRI4RddWh72zxrgdyqJ.jpg)",
+        "link": "[Link](https://www.auchan.ru/product/syrok-tvorozhnyy-belyy-medved-s-varennoy-sgushchenkoy-glazirovannyy-40-g/)<br>"
+    },
+    {
+        "_id": 15539,
+        "name": "Молоко сгущенное с сахаром и ароматом Глубокое Имбирный пряник 8,5% БЗМЖ, 380ш",
+        "price": 147.96,
+        "image": "[Photo](сгущенка/fGgSdhPdBYkGCjrEsKlKWrNxuOpIOJJZcoPvWelX.jpg)",
+        "link": "[Link](https://www.auchan.ru/product/mol-sgushch-imb-pr-8-5-380g/)<br>"
+    },
+    {
+        "_id": 107424,
+        "name": "Сгущенка с сахаром 0,2% БЗМЖ, 370 г",
+        "price": 90.99,
+        "image": "[Photo](сгущенка/lxxJF2hYzWBtlAj5dcSOe6ADqCuYPVm1paPv7alz.jpg)",
+        "link": "[Link](https://www.auchan.ru/product/sgushch-mol-0-2-370g-zhb-bzmzh/)<br>"
+    },
+    {
+        "_id": 14166,
+        "name": "Продукт сгущенный Молочная Страна молокосодержащий вареная ЗМЖ, 380 г",
+        "price": 109.99,
+        "image": "[Photo](сгущенка/Rfds7XRhzioUTZmO5dadkNtVlenTu2CWOmJZWPku.jpg)",
+        "link": "[Link](https://www.auchan.ru/product/produkt-sgushchennyy-molochnaya-strana-molokosoderzhashchiy-varenaya-380-g/)<br>"
+    },
+    {
+        "_id": 536152,
+        "name": "Продукт молочный сгущенный с сахаром Коровка 1% БЗМЖ, 270 г",
+        "price": 64.96,
+        "image": "[Photo](сгущенка/3G0DOuK0GB7ju4cp8r1zetR60krLnK8i2fj34ubF.jpg)",
+        "link": "[Link](https://www.auchan.ru/product/moloko-sgushchenoe-soyuzkonservmoloko-8-5-270-g/)<br>"
+    },
+    {
+        "_id": 971983,
+        "name": "Продукт молокосодержащий сгущенный Эрконпродукт с сахаром 8,5% ЗМЖ, 1,02 л",
+        "price": 257.99,
+        "image": "[Photo](сгущенка/Oo9aJLbNHlAITpOsiXQwGaB2C2crvsPETBcIpAri.jpg)",
+        "link": "[Link](https://www.auchan.ru/product/sgushchenka-pet-1-02-kg/)<br>"
+    },
+    {
+        "_id": 871912,
+        "name": "Молоко сгущенное Любимая Классика вареное с сахаром 4% БЗМЖ, 370 г",
+        "price": 114.9,
+        "image": "[Photo](сгущенка/F43yycjdauwqhAYzSUmtefXv6PV2fBCOTMgv97Rn.jpg)",
+        "link": "[Link](https://www.auchan.ru/product/sgushch-mol-var-lk-370g-zh-b-bzmzh/)<br>"
+    },
+    {
+        "_id": 945082,
+        "name": "Десерт творожный Своя корова глазированный с вареной сгущенкой в вафельном рожке 20%, 60 г",
+        "price": 38.99,
+        "image": "[Photo](сгущенка/6JHEj2DIG1wex9pjJrVWmKdYO6OLqleqLvtCYI3S.jpg)",
+        "link": "[Link](https://www.auchan.ru/product/des-gl-rozhok-varen-60g-sv-kor/)<br>"
+    },
+    {
+        "_id": 750924,
+        "name": "Круассан 7Days 3+1 с кремом вареная сгущенка, 260 г",
+        "price": 129.9,
+        "image": "[Photo](сгущенка/t27ns41mCL7eyQLhHoKbpsAnWV5b4XKDfB6pmlx6.jpg)",
+        "link": "[Link](https://www.auchan.ru/product/kruassan-7days-3-1-s-kremom-varenaya-sgushchenka-260-g/)<br>"
+    },
+    {
+        "_id": 859283,
+        "name": "Молоко сгущенное Любимая Классика с сахаром БЗМЖ, 270 г",
+        "price": 133.99,
+        "image": "[Photo](сгущенка/b5ruMiEjVvCgeqWAKtzffMfal78IcppJhM08hMyo.jpg)",
+        "link": "[Link](https://www.auchan.ru/product/mol-sg-270g-klassika-d-p-bzmzh/)<br>"
+    },
+    {
+        "_id": 56632,
+        "name": "Молоко сгущенное Молочная страна цельное гост БЗМЖ, 380 г",
+        "price": 116.96,
+        "image": "[Photo](сгущенка/DvtYKYF5AiFZwJDqQ7loFFx4aKT5XoSwBpjnjO6Y.jpg)",
+        "link": "[Link](https://www.auchan.ru/product/moloko-molochnaya-strana-celnoe-sgushchennoe-gost-380-g/)<br>"
+    },
+    {
+        "_id": 102288,
+        "name": "Сгущенка Каждый день со вкусом клубники СЗМЖ, 500 г",
+        "price": 88.99,
+        "image": "[Photo](сгущенка/86Nb1qWUpXHvUZQsYPMDeVSa1YYtrDORKhzJjB9V.jpg)",
+        "link": "[Link](https://www.auchan.ru/product/kd-sgushch-500g-klubnika-szmzh/)<br>"
+    },
+    {
+        "_id": 115355,
+        "name": "Молоко сгущенное Laime с сахаром 8,5%, 360 г",
+        "price": 119.96,
+        "image": "[Photo](сгущенка/tYklC06ErxibQHsY6QLXkJncHEsa8miN6iThgtCK.jpg)",
+        "link": "[Link](https://www.auchan.ru/product/moloko-sgushch-8-5-zh-b-360-laime/)<br>"
+    },
+    {
+        "_id": 830945,
+        "name": "Мини-круассаны АШАН Красная птица с начинкой со вкусом вареной сгущенки, 200 г",
+        "price": 69.9,
+        "image": "[Photo](сгущенка/HD23UAjyQ5ksgh34txevVU2VKj0NZMAJ4hToYH2C.jpg)",
+        "link": "[Link](https://www.auchan.ru/product/kp-kruassany-sgushch-moloko-200g/)<br>"
+    },
+    {
+        "_id": 922936,
+        "name": "Молоко сгущенное Смолена цельное 0,2% БЗМЖ, 500 г",
+        "price": 153.99,
+        "image": "[Photo](сгущенка/fisJyqyzNxbzmgo4mFpXQRWvE7at2v1vDsNEGSTQ.jpg)",
+        "link": "[Link](https://www.auchan.ru/product/mol-sgushch-smolena-500g-pet-bzmzh/)<br>"
+    },
+    {
+        "_id": 88046,
+        "name": "Продукт молочный Сгущенка вареный 0,2% БЗМЖ, 370 г",
+        "price": 90.99,
+        "image": "[Photo](сгущенка/Z7leFtVSUulPSwn746fvinRcHnB9WQ4xm9f0vQsf.jpg)",
+        "link": "[Link](https://www.auchan.ru/product/sgushch-mol-var-0-2-370g-zhb/)<br>"
+    },
+    {
+        "_id": 75271,
+        "name": "Молоко сгущенное Волоконовское цельное с сахаром 8,5% БЗМЖ, 270 г",
+        "price": 99.9,
+        "image": "[Photo](сгущенка/VZIxFF3SpGMr22YTnCuqezGp3ZupZBWcmbQCUM3D.jpg)",
+        "link": "[Link](https://www.auchan.ru/product/moloko-volokonovskoe-celnoe-sgushchennoe-s-saharom-270-g/)<br>"
+    },
+    {
+        "_id": 482210,
+        "name": "Молоко сгущенное Глубокое цельное с сахаром 8,5% БЗМЖ, 380 г",
+        "price": 145.99,
+        "image": "[Photo](сгущенка/Hk7nTven2bOPQzejIFkf29n9xcLVXRFAIgNTLcad.jpg)",
+        "link": "[Link](https://www.auchan.ru/product/moloko-sgushchennoe-glubokoe-celnoe-s-saharom-8-5-380-g/)<br>"
+    },
+    {
+        "_id": 127714,
+        "name": "Молоко сгущенное Глубокое цельное с сахаром 8,5% БЗМЖ, 280 г",
+        "price": 101.96,
+        "image": "[Photo](сгущенка/bZYQ4unxwf45etuMZIZ6wLNAPsbXLFrcOqcpGA3L.jpg)",
+        "link": "[Link](https://www.auchan.ru/product/mol-sgushch-celnoe-8-5-280g-dp/)<br>"
+    },
+    {
+        "_id": 75270,
+        "name": "Молоко сгущенное Волоконовское цельное с сахаром 8,5% БЗМЖ, 370 г",
+        "price": 153.99,
+        "image": "[Photo](сгущенка/PXEqZBeVQYJ5QikErKbr1MMVcH6fgttXKACgqbUO.jpg)",
+        "link": "[Link](https://www.auchan.ru/product/moloko-volokonovskoe-celnoe-sgushchennoe-s-saharom-370-g/)<br>"
+    },
+    {
+        "_id": 127510,
+        "name": "Молоко сгущенное Волоконовское с сахаром 8,5% БМЗЖ, 620 г",
+        "price": 206.99,
+        "image": "[Photo](сгущенка/9KCF7l229NjC5zoGLtlUzHHdUkKBbjMrKNAlwvaL.jpg)",
+        "link": "[Link](https://www.auchan.ru/product/mol-sgushch-8-5-620g-volokon/)<br>"
+    },
+    {
+        "_id": 70976,
+        "name": "Запеканка АШАН Красная птица с кокосом и сгущенкой, 200 г",
+        "price": 169.99,
+        "image": "[Photo](сгущенка/HScIS0nrR8RXnMzBf6Jq6FGlXonRkPb24yHp2uBx.jpg)",
+        "link": "[Link](https://www.auchan.ru/product/kp-zapekan-s-kokos-i-sgushch-200g/)<br>"
+    },
+    {
+        "_id": 130171,
+        "name": "Печенье Дымка Сгущенное молоко, 195 г",
+        "price": 61.99,
+        "image": "[Photo](сгущенка/eLdRPtryKMGHrwvOr9lQzTU4h1y7ANpbzMxuyaI4.jpg)",
+        "link": "[Link](https://www.auchan.ru/product/pechene-sgushchennoe-moloko-195g/)<br>"
+    },
+    {
+        "_id": 326792,
+        "name": "Вафли мягкие Акульчев Венские со сгущенкой, 100 г",
+        "price": 39.9,
+        "image": "[Photo](сгущенка/JYRuKVbuqsqYd42JLdkMAxweiEoHt8D0Bpex1uHG.jpg)",
+        "link": "[Link](https://www.auchan.ru/product/vafli-myagkie-akulchev-venskie-so-sgushchenkoy-100-g/)<br>"
+    },
+    {
+        "_id": 415043,
+        "name": "Круассан 7Days с вареной сгущенкой, 65 г",
+        "price": 66.99,
+        "image": "[Photo](сгущенка/1OJeJ9YcKXQSEKCAwzhurxZEQRMSryuhJKp0W5K1.jpg)",
+        "link": "[Link](https://www.auchan.ru/product/kruassan-7days-s-varenoy-sgushchenkoy-65-g/)<br>"
+    },
+    {
+        "_id": 648058,
+        "name": "Молоко Молочная страна концентрированное без сахара стерилизованное гост 7.8% БЗМЖ, 300 г",
+        "price": 97.99,
+        "image": "[Photo](сгущенка/qQ8wWJVF35VewDrDpKsrGz1QQM6pjRUe8qBNMpFZ.jpg)",
+        "link": "[Link](https://www.auchan.ru/product/moloko-molochnaya-strana-koncentrirovannoe-bez-sahara-sterilizovannoe-gost-7-8-300-g/)<br>"
+    },
+    {
+        "_id": 592169,
+        "name": "Пряники Рот Фронт Коровка с вареной сгущенкой, 300 г",
+        "price": 89.9,
+        "image": "[Photo](сгущенка/nUlwrZ3kwkDesGE9WG5cVNcEXEb4MdvTCMajrnLt.jpg)",
+        "link": "[Link](https://www.auchan.ru/product/pryaniki-rot-front-korovka-s-varenoy-sgushchenkoy-300-g/)<br>"
+    },
+    {
+        "_id": 272784,
+        "name": "Мороженое Вологодский Пломбир на вареной сгущенке БЗМЖ, 100 г",
+        "price": 49.9,
+        "image": "[Photo](сгущенка/kK56c3YUf4tzYhcvDndgFP6aXxa34RhdmD03GtdM.jpg)",
+        "link": "[Link](https://www.auchan.ru/product/morozhenoe-vologodskiy-plombir-na-varenoy-sgushchenke-100-g/)<br>"
+    },
+    {
+        "_id": 24642,
+        "name": "Вафельная трубочка АШАН Красная птица с вареной сгущенкой, 70 г",
+        "price": 29.99,
+        "image": "[Photo](сгущенка/fYaGcjSSX9aZLwIT4FQWwpOMdMcE8J5BxUfErTVk.jpg)",
+        "link": "[Link](https://www.auchan.ru/product/kp-vafel-trubochka-var-sgushch-70g/)<br>"
+    },
+    {
+        "_id": 870519,
+        "name": "Торт MIREL Карамельный на сгущенке, 700 г",
+        "price": 508.99,
+        "image": "[Photo](сгущенка/DuDKz06ZIgvw68si3TmH6ZPj3nj9yaF3cyrkl1vs.jpg)",
+        "link": "[Link](https://www.auchan.ru/product/tort-biskv-karam-na-sgushch-700g/)<br>"
+    },
+    {
+        "_id": 145746,
+        "name": "Пончик АШАН с вареной сгущенкой, 6x70 г",
+        "price": 109.9,
+        "image": "[Photo](сгущенка/a2n9fXBfn2HqxERBU3Urt4JaX18rqvYh2BABnGEd.jpg)",
+        "link": "[Link](https://www.auchan.ru/product/ponchiki-s-varenoy-sgushch-6sht-85g/)<br>"
+    },
+    {
+        "_id": 969347,
+        "name": "Мороженое сливочное Лакомство Колибри с вареной сгущенкой ЗМЖ, 400 г",
+        "price": 208.99,
+        "image": "[Photo](сгущенка/auCfciRphskhBYsrW0Ar5NmfEqOmitO7YtO4aLO5.jpg)",
+        "link": "[Link](https://www.auchan.ru/product/mor-vedro-var-sgushch-lk400g-szmzh/)<br>"
+    },
+    {
+        "_id": 258202,
+        "name": "Пирожное Медвежонок Барни бисквитное со сгущенным молоком, 150 г",
+        "price": 89.9,
+        "image": "[Photo](сгущенка/E9srJYqFpV0vvlHQ76Pw5AQpwKYWWF9A5RqxY9xl.jpg)",
+        "link": "[Link](https://www.auchan.ru/product/pirozhnoe-biskvitnoe-medvezhonok-barni-so-sgushchennym-molokom-5h30-g/)<br>"
+    },
+    {
+        "_id": 936833,
+        "name": "Рулетики АШАН Красная птица вафельные с ароматом сгущенного молока, 180 г",
+        "price": 79.99,
+        "image": "[Photo](сгущенка/J0jXN0HtCVpA7EJSD7al8rJ9z0szjlQlzwOphNQ6.jpg)",
+        "link": "[Link](https://www.auchan.ru/product/kp-vaf-rul-s-ar-sgushch-mol-180g/)<br>"
+    },
+    {
+        "_id": 231159,
+        "name": "Блинчики АШАН Красная птица со сгущенкой, 480 г",
+        "price": 139.99,
+        "image": "[Photo](сгущенка/tmYH9diPLC0U67095wdYe2Yfr7QKZk73vQAeX9FF.jpg)",
+        "link": "[Link](https://www.auchan.ru/product/bliny-so-sgushchenkoy-auchan-krasnaya-ptica-480-g/)<br>"
+    },
+    {
+        "_id": 145744,
+        "name": "Пончик АШАН с вареной сгущенкой, 4x70 г",
+        "price": 72.99,
+        "image": "[Photo](сгущенка/2fFlvWr1jfMOqULaySil4W9Hr3tgFlR0uc37cpnJ.jpg)",
+        "link": "[Link](https://www.auchan.ru/product/ponchiki_s_varenoy_sgusch_4sht_85g/)<br>"
+    },
+    {
+        "_id": 936821,
+        "name": "Рулетики АШАН Красная птица вафельные с ароматом сгущенного молока, 400 г",
+        "price": 156.99,
+        "image": "[Photo](сгущенка/ZshL5spTOBf1VWOiV5HyXbgOLkTAJkPa5kT3HHZh.jpg)",
+        "link": "[Link](https://www.auchan.ru/product/kp-vaf-rul-s-ar-sgushch-mol-400g/)<br>"
+    },
+    {
+        "_id": 737468,
+        "name": "Трубочка вафельная Lafinele с вареной сгущенкой БЗМЖ, 70 г",
+        "price": 27.96,
+        "image": "[Photo](сгущенка/96M8d2U6U4XKElPsDn5FvYSQZSbHcPIGDwSK4CE3.jpg)",
+        "link": "[Link](https://www.auchan.ru/product/trubochka-vafelnaya-lafinele-s-varenoy-sgushchenkoy-70-g/)<br>"
+    },
+    {
+        "_id": 121259,
+        "name": "Пряник АШАН Красная птица Тульский с варной сгущенкой, 130 г",
+        "price": 39.99,
+        "image": "[Photo](сгущенка/L4w4zsSGqULPeBROYnfXTqhRgcYCeUYsICwSi2FG.jpg)",
+        "link": "[Link](https://www.auchan.ru/product/kp-pryanik-tul-s-var-sgushch-130g/)<br>"
+    },
+    {
+        "_id": 252732,
+        "name": "Пряники АШАН Красная птица с вареной сгущенкой, 300 г",
+        "price": 87.99,
+        "image": "[Photo](сгущенка/QfNfrpwgMi7NJQ0Pt0gkkE18bPqShtWoB9EDR37J.jpg)",
+        "link": "[Link](https://www.auchan.ru/product/pryaniki-auchan-krasnaya-ptica-s-varenoy-sgushchenkoy-300-g/)<br>"
+    },
+    {
+        "_id": 278337,
+        "name": "Трубочка вафельная Свитлогорье со сгущеным молоком 11,7 % БЗМЖ, 65 г",
+        "price": 49.99,
+        "image": "[Photo](сгущенка/053xlYLGg4ei0Ldisx2NlTkyrJ1AQv7YoxnAv2IS.jpg)",
+        "link": "[Link](https://www.auchan.ru/product/moloko-sgushchennoe-svitlogore-s-saharom-v-vafelnoy-trubochke-11-7-65-g/)<br>"
+    },
+    {
+        "_id": 909591,
+        "name": "Печенье Ванюшкины сладости с вареной сгущенкой, вес",
+        "price": 35.9,
+        "image": "[Photo](сгущенка/UWPo61Caft2ax4vSr3BdD1KMiIkMg48zk57ZveDZ.jpg)",
+        "link": "[Link](https://www.auchan.ru/product/pech-vanyushkin-slad-sgushch-1kg/)<br>"
+    },
+    {
+        "_id": 641192,
+        "name": "Трубочки хрустящие МАХЕЕВЪ со вкусом сгущенного молока, 400 г",
+        "price": 147.99,
+        "image": "[Photo](сгущенка/S0BqklA6JZ8xcuNCRqtdtE2asK3d6C4sSeJHmzSc.jpg)",
+        "link": "[Link](https://www.auchan.ru/product/trubochki-hrustyashchie-maheev-so-vkusom-sgushchennogo-moloka-400-g/)<br>"
+    },
+    {
+        "_id": 855658,
+        "name": "Вафли Яшкино с вареной сгущенкой, 300 г",
+        "price": 99.99,
+        "image": "[Photo](сгущенка/e07p9FBPZ5zvDzb01sg72GHuF2cCq6gZM5sKjktn.jpg)",
+        "link": "[Link](https://www.auchan.ru/product/vafli-yashkino-s-varenoy-sgushchenkoy-300-g/)<br>"
+    },
+    {
+        "_id": 352090,
+        "name": "Рулет бисквитный Каждый День вареная сгущенка, 200 г",
+        "price": 39.98,
+        "image": "[Photo](сгущенка/zp2BwsfyhJEAiaJUxLngOwTqey4vGBWERxTaXg4t.jpg)",
+        "link": "[Link](https://www.auchan.ru/product/kdrulet_biskv_var_sgusch_200g/)<br>"
+    },
+    {
+        "_id": 100173,
+        "name": "Торт MIREL Медовый с вареной сгущенкой, 500 г",
+        "price": 461.99,
+        "image": "[Photo](сгущенка/uy4RKCeELKWtcbyN2S8XrGV7k1sMjkjLaCZCD5la.jpg)",
+        "link": "[Link](https://www.auchan.ru/product/tort-medovyy-s-var-sgushchen-500g/)<br>"
+    },
+    {
+        "_id": 973259,
+        "name": "Трубочка вафельная Свитлогорье с варёной сгущёнкой 8,5% БЗМЖ, 70 г",
+        "price": 49.99,
+        "image": "[Photo](сгущенка/WA5yiuLuiAIWlc9JX0Vj41nw4Pasc7jYhA9gbQ58.jpg)",
+        "link": "[Link](https://www.auchan.ru/product/trubochka-var-sgushch-70g-bzmzh/)<br>"
+    },
+    {
+        "_id": 984595,
+        "name": "Мягкая карамель АШАН Красная птица 5% БЗМЖ, 400 г",
+        "price": 139.99,
+        "image": "[Photo](сгущенка/ATTzWpCXZbIk7QqazXdfWAfnPjNzjz4Kf2HQrEND.jpg)",
+        "link": "[Link](https://www.auchan.ru/product/kp-myagkaya-karamel-5-400g-ved/)<br>"
+    },
+    {
+        "_id": 443295,
+        "name": "Пряник Ясная Поляна Тульский с вареной сгущенкой, 45 г",
+        "price": 19.99,
+        "image": "[Photo](сгущенка/1az8MOal78M6LK1mGymXWbANSE43Pk9aFJci39EQ.jpg)",
+        "link": "[Link](https://www.auchan.ru/product/pryan_tulskiy_lak_nach_var_sgusch_45g/)<br>"
+    },
+    {
+        "_id": 768358,
+        "name": "Мини-маффины Русский бисквит с начинкой Вареная сгущенка, 465 г",
+        "price": 155.99,
+        "image": "[Photo](сгущенка/oUIP32C0gCek5TuGi5LztdBQtRkChKsq122Rz0e5.jpg)",
+        "link": "[Link](https://www.auchan.ru/product/mini_maff_s_nach_var_sgusch_465_g/)<br>"
+    },
+    {
+        "_id": 906806,
+        "name": "Десерт вафельный АККОНД со сгущенкой, вес",
+        "price": 42.6,
+        "image": "[Photo](сгущенка/0xxB9PDAHuZI5IQ3aL1d0zBcOVjbzlzeyTyqell2.jpg)",
+        "link": "[Link](https://www.auchan.ru/product/desert-so-sgushchenkoy/)<br>"
+    },
+    {
+        "_id": 513007,
+        "name": "Вафли мягкие Яшкино с кремом вареная сгущенка, 120 г",
+        "price": 61.99,
+        "image": "[Photo](сгущенка/W7NMhVPOvpc3LV5vOVrWuO5qpEQnAnqpCJ2Qr3jz.jpg)",
+        "link": "[Link](https://www.auchan.ru/product/vafli-myagkie-yashkino-s-kremom-varenaya-sgushchenka-120-g/)<br>"
+    },
+    {
+        "_id": 89814,
+        "name": "Трубочки вафельные Яшкино со вкусом сгущеного молока, 190 г",
+        "price": 85.99,
+        "image": "[Photo](сгущенка/R0SUAwpB8M0rwgBsqXKzqPOo4VjPsbf6BY4qeOXR.jpg)",
+        "link": "[Link](https://www.auchan.ru/product/trub-vaf-yashkino-sgushch-mol-190g/)<br>"
+    },
+    {
+        "_id": 508575,
+        "name": "Трубочка вафельная Преображенский с сгущеным молоком БЗМЖ, 70 г",
+        "price": 34.49,
+        "image": "[Photo](сгущенка/gDSLPQfBSkAmMksdxjh0fi2iYxyXGdYjEZnBcMO7.jpg)",
+        "link": "[Link](https://www.auchan.ru/product/trubochka-vafelnaya-preobrazhenskiy-s-sgushchenym-molokom-70-g/)<br>"
+    },
+    {
+        "_id": 768355,
+        "name": "Булочки сдобные Русский бисквит молочные с начинкой Вареная сгущенка, 350 г",
+        "price": 123.99,
+        "image": "[Photo](сгущенка/bPtLycjQTRw6f84sEJG22OtTpkQc6ZTRaXU2XBEC.jpg)",
+        "link": "[Link](https://www.auchan.ru/product/bul_moloch_s_nach_var_sgusch_350_g/)<br>"
+    },
+    {
+        "_id": 923496,
+        "name": "Торт вафельный АШАН Красная птица сгущенное молоко, 200 г",
+        "price": 111.99,
+        "image": "[Photo](сгущенка/i13IsleZMmwGpCIjyg0UhWnFGmoLOAx2iJDuFESK.jpg)",
+        "link": "[Link](https://www.auchan.ru/product/kp-vaf-tort-proc-sgushch-mol-200g/)<br>"
+    },
+    {
+        "_id": 971163,
+        "name": "Конфеты Левушка детям с вареной сгущенкой, вес",
+        "price": 63.0,
+        "image": "[Photo](сгущенка/v6uTy61QhneqpkSkWitYTXUo1cWbo4D2S7OWrkHp.jpg)",
+        "link": "[Link](https://www.auchan.ru/product/konflevushka-detyam-sgushchenka-ves/)<br>"
+    },
+    {
+        "_id": 586758,
+        "name": "Рулет Яшкино Швейцарский с варёной сгущенкой, 200 г",
+        "price": 76.99,
+        "image": "[Photo](сгущенка/5gRiJVacX1K8KU3keLOnYbEaptpNAHA1yrtuvAKL.jpg)",
+        "link": "[Link](https://www.auchan.ru/product/rulet-yashkino-shveycarskiy-s-varenoy-sgushchenkoy-200-g/)<br>"
+    },
+    {
+        "_id": 114225,
+        "name": "Пряники мини Яшкино с варёной сгущёнкой, 350г",
+        "price": 79.9,
+        "image": "[Photo](сгущенка/GwlicWqQFv9jenlrC0MiFooCDmR2araJKNlgp5QD.jpg)",
+        "link": "[Link](https://www.auchan.ru/product/mini-pryanik-s-varenoy-sgushchenk-300g/)<br>"
+    },
+    {
+        "_id": 641184,
+        "name": "Рулет бисквитный 7Days вареная сгущенка, 300 г",
+        "price": 129.9,
+        "image": "[Photo](сгущенка/LytVw5zMTq2LVkypcbTxyIxKUIIDUWHTnqsClFQa.jpg)",
+        "link": "[Link](https://www.auchan.ru/product/rulet-biskvitnyy-7days-varenaya-sgushchenka-300-g/)<br>"
+    },
+    {
+        "_id": 761799,
+        "name": "Печенье-сэндвич Konti Супер-Контик со сгущенным молоком, 100 г",
+        "price": 42.99,
+        "image": "[Photo](сгущенка/pXYkZOpeate8K8G4mcCGZirXgms9p5XL84vjDi0A.jpg)",
+        "link": "[Link](https://www.auchan.ru/product/pechene-sendvich-konti-super-kontik-so-sgushchennym-molokom-100-g/)<br>"
+    },
+    {
+        "_id": 733618,
+        "name": "Палочки кукурузные РУЗИК со вкусом сгущеного молока, 90 г",
+        "price": 51.99,
+        "image": "[Photo](сгущенка/LMqwXHngwoCCMdmDazmvtApQUeP1C8t9WSkIxseC.jpg)",
+        "link": "[Link](https://www.auchan.ru/product/palochki-kukuruznye-ruzik-so-vkusom-sgushchenogo-moloka-90-g/)<br>"
+    },
+    {
+        "_id": 114222,
+        "name": "Вафли Дымка Вау-Вафля! с вареной сгущенкой, 300 г",
+        "price": 99.9,
+        "image": "[Photo](сгущенка/pZTtvgXAgFmZ6NS1Uqezjvt9vV1vHeHC8pNBUEr9.jpg)",
+        "link": "[Link](https://www.auchan.ru/product/vau-vaflya-300g-60mm/)<br>"
+    },
+    {
+        "_id": 884031,
+        "name": "Рулет бисквитный Рот Фронт Коровка с вареной сгущенкой, 200 г",
+        "price": 89.99,
+        "image": "[Photo](сгущенка/NbsF4Niip9YmGqiRmQvDon47fSdctOQCfNJyjsQQ.jpg)",
+        "link": "[Link](https://www.auchan.ru/product/rulet-biskvitnyy-rot-front-korovka-s-varenoy-sgushchenkoy-200-g/)<br>"
+    },
+    {
+        "_id": 114219,
+        "name": "Вафли Сладкая слобода Парижанка с вареным сгущенным молоком для питания детей с 3х лет, 210 г",
+        "price": 79.9,
+        "image": "[Photo](сгущенка/vpq7zz8hYeiG8IU2N3unTqFEtxWBF9Z16TC2PaPI.jpg)",
+        "link": "[Link](https://www.auchan.ru/product/vafparizhanka-var-sgushchenka-210g/)<br>"
+    },
+    {
+        "_id": 107828,
+        "name": "Печенье сахарное Рот Фронт Коровка со вкусом вареной сгущенки, 280 г",
+        "price": 123.99,
+        "image": "[Photo](сгущенка/TOPfbE98x48MOkER6VuQ6JlrawBD1QC662DkCjhm.jpg)",
+        "link": "[Link](https://www.auchan.ru/product/pech-korovka-var-sgushchenka-280/)<br>"
+    },
+    {
+        "_id": 87372,
+        "name": "Печенье песочное Русская Печь Ракушка со сгущенкой, 200 г",
+        "price": 89.99,
+        "image": "[Photo](сгущенка/oWsnt1hZe3kzJZdKwQFiWFuSaCJT0hXbXFVQm7GA.jpg)",
+        "link": "[Link](https://www.auchan.ru/product/pechene-rakushka-so-sgushch-200g/)<br>"
+    },
+    {
+        "_id": 57785,
+        "name": "Вафли мягкие Аладушкин с вареной сгущенкой, 108 г",
+        "price": 70.99,
+        "image": "[Photo](сгущенка/AVD6Z0WfkamW3hChWd0UojQS4NTH3zAy9ZJRfmpm.jpg)",
+        "link": "[Link](https://www.auchan.ru/product/vaf-myag-s-var-sgushchenkoy-108g/)<br>"
+    },
+    {
+        "_id": 254992,
+        "name": "Круассан АШАН с вареной сгущенкой, 65 г х 4 шт",
+        "price": 89.99,
+        "image": "[Photo](сгущенка/4fcYHGYIVHLxTDMFbz1v954rncnSgKZAJFtJTVCe.jpg)",
+        "link": "[Link](https://www.auchan.ru/product/kruassan-s-var-sgushch-65gh4sht/)<br>"
+    },
+    {
+        "_id": 130313,
+        "name": "Печенье сдобное АШАН Красная птица Орешки с вареной сгущенкой, 500 г",
+        "price": 204.9,
+        "image": "[Photo](сгущенка/Z7GCyuZoMPoEKoAqG8WTCDR0MnJMoYxbYjpPjVRN.jpg)",
+        "link": "[Link](https://www.auchan.ru/product/kp-pech-sdob-s-nach-oreshki-500g/)<br>"
+    }
+]
